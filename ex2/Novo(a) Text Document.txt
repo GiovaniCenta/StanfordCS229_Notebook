@@ -1,0 +1,9 @@
+I pretend to take this course in parallel with my 6th semester in Computer Engineer graduation at Universidade Federal do Rio Grande Do Sul. As I am beginning to get to the end of my graduation, I am in need to learn as much as possible to get myself into the market, Masters, or science projects in the few next years. I am hoping, with this course, that I can learn what is necessary to achieve my goals. 
+Also, data science brings things that I am interested in, as I think it helps not only companies and such, but our society in general. The covid-19 pandemics and the data analysis of the pandemic helped governments around the globe to understand the contamination tax, which gave directions in lockdowns, openings, and such. Saving as many lives as possible. 
+I hope that, after I finish this course, I can get the maximum understanding possible of this area and I hope I can contribute with similar projects someday.
+
+
+
+
+Hello, my name is Giovani da Silva I am a Brazilian computer engineer student at Universidade Federal of Rio Grande do Sul. 
+My request is due to Brazillian real not being highly valued in comparison with USD and the crises we live here in Brazil. For example, the $ 49 subscription is the equivalent of R$241 which is almost 1/4 of the minimum salary, so, for a student with no salary who lives with his parents due to pandemic, it's pretty hard to find ways to pay 50 dollars every month, as for now, my parents help me but I can't ask too much of them, as things are not easy due to pandemic and economic crises here in Brazil. I hope that with the knowledge I get from this course I can search for better jobs in the future or even begin to dig down in data science to be a master in the area someday. 
